@@ -4,7 +4,7 @@ version = "0.0.0"
 description = "Desktop SVG Editor"
 authors = ["Mark MacKay"]
 license = "MIT"
-repository = ""
+repository = "https://github.com/felipetesc/method-draw-app"
 edition = "2021"
 rust-version = "1.57"
 
