@@ -18,4 +18,4 @@ However if your issue regards how to access OS specific functionality you should
 - Using your preferred shell client, navigate to src-tauri
 - run cargo build --release
 
-
+![Printscreen](https://github.com/felipetesc/method-draw-app/blob/master/resources/printscreen1.png)
